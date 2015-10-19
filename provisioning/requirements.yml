@@ -1,5 +1,6 @@
 - src: https://github.com/idi-ops/ansible-facts
   name: facts
 
-- src: https://github.com/idi-ops/ansible-nodejs
+- src: https://github.com/avtar/ansible-nodejs
+  version: remotes/origin/npm-symlink
   name: nodejs
