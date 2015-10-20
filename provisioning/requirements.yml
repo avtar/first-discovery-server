@@ -2,5 +2,5 @@
   name: facts
 
 - src: https://github.com/avtar/ansible-nodejs
-  version: remotes/origin/npm-symlink
+  version: remotes/origin/npm-path-workaround
   name: nodejs
